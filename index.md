@@ -410,9 +410,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <p>
     SQL is a specialized programming language used with databases.  We
     use a simple database manager called
-    <a href="http://www.sqlite.org/">SQLite</a> in our lessons. **Also - new 4/10/18**
+    <a href="http://www.sqlite.org/">SQLite</a> in our lessons. <b>Also - new 4/10/18</b>
     download the appropriate DB Browser for your operating system:
-    http://sqlitebrowser.org/
+    <a href="http://sqlitebrowser.org/">http://sqlitebrowser.org/</a>
   </p>
 
   <div class="row">
